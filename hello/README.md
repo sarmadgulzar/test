@@ -1,8 +1,5 @@
-Here's some Python code
+Here's some Vue code
 
-```python
-def say_hello():
-    print("Hello")
-
-say_hello()
+```vue
+<p v-if="visible">Visible</p>
 ```
