@@ -1,5 +1,5 @@
 Here's some Vue code
 
-```html
+```vue
 <a @[event]="doSomething"> ... </a>
 ```
