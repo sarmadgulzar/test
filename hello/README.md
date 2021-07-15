@@ -1,5 +1,5 @@
 Here's some Vue code
 
-```vue
+```html
 <p @click="visible == 5">Visible</p>
 ```
